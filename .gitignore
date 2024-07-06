@@ -5,6 +5,7 @@ __pycache__/
 
 *api_key.txt
 */documents.json
+02-open-source/ollama_files
 
 # C extensions
 *.so
